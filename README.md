@@ -1,4 +1,4 @@
-![HELLO WORLD](./Images/Hello%20World.png)
+![HELLO WORLD](./Images/HellWorld.png)
 
 😎 I’m Software Engineer with a passion for Science.<br>🫡 I am a content creator who loves to learn by teaching.<br>
 
