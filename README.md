@@ -19,7 +19,7 @@
 
 # 👨🏻‍💻 Letcode Stats:
 
-![](https://leetcard.jacoblin.cool/needforelmir)
+![Leetcode Stats](https://leetcard.jacoblin.cool/needforelmir&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huseynovelmir&icon=0&color=0)](https://visitcount.itsvg.in)
