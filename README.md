@@ -20,7 +20,6 @@
 # 👨🏻‍💻 Letcode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/needforelmir?theme=nord)
-![Leetcode Stats](https://leetcard.jacoblin.cool/needforelmir?ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huseynovelmir&icon=0&color=0)](https://visitcount.itsvg.in)
