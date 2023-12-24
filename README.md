@@ -1,4 +1,4 @@
-![HELLO WORLD](https://mega.nz/file/tsAnBAqT#G_Xr-31Vi3eF2M-HGcVNpU4IRT74-6gZ_dk7T-e0H5U)
+![HELLO WORLD](https://drive.google.com/file/d/1fpBDDWjW86P91Z-UHDe2IO4_ks1BrFEe/view?usp=drive_link)
 
 😎 I’m Software Engineer with a passion for Science.<br>🫡 I am a content creator who loves to learn by teaching.<br>
 
