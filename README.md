@@ -1,4 +1,4 @@
-![HELLO WORLD](https://drive.google.com/file/d/1fpBDDWjW86P91Z-UHDe2IO4_ks1BrFEe/view?usp=sharing/image.png)
+![HELLO WORLD](https://drive.google.com/uc?id=<1fpBDDWjW86P91Z-UHDe2IO4_ks1BrFEe>)
 
 😎 I’m Software Engineer with a passion for Science.<br>🫡 I am a content creator who loves to learn by teaching.<br>
 
