@@ -1,4 +1,4 @@
-![HELLO WORLD](./Images/HelloWorld.png)
+![HELLO WORLD](https://mega.nz/fm/BlZRSCLB)
 
 😎 I’m Software Engineer with a passion for Science.<br>🫡 I am a content creator who loves to learn by teaching.<br>
 
