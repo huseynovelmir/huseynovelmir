@@ -9,8 +9,8 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/huseynovelmir"><img width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"/></a>
-<a href = "https://www.instagram.com/needforelmir"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"/></a>
+<a href = "https://www.instagram.com/needforelmir"><img width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"/></a>
+<a href = "https://www.linkedin.com/in/huseynovelmir"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg"/></a>
 
 </p>
 
