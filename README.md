@@ -1,4 +1,6 @@
-![HELLO WORLD](./Images/HelloWorld.png)
+<h1 align="center">Hello world, This is Elmir</h1>
+<h3 align="center">I'm a Front-end developer</h3>
+<img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
 
 😎 I’m Software Engineer with a passion for Science.<br>🫡 I am a content creator who loves to learn by teaching.<br>
