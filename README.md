@@ -20,7 +20,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=huseynovelmir&icon=0&color=blue)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=huseynovelmir&icon=0&color=#1e90ff)](https://visitcount.itsvg.in)
 
 
 
