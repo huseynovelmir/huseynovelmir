@@ -9,7 +9,7 @@
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/huseynovelmir"><img width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg"/></a>
-<a href = "https://www.instagram.com/needforelmir"><img width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"/></a>
+<a href = "https://www.instagram.com/needforelmir"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/></a>
 
 
 </p>
