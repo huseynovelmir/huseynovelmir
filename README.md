@@ -20,7 +20,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovelmir&label=Profile%20views&color=black&style=flat" alt="elnurumo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovelmir&label=Profile%20views&color=000&style=flat" alt="elnurumo" /> </p>
 
 
 
