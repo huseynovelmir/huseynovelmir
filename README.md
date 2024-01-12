@@ -20,7 +20,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovelmir&label=Profile%20views&color=000&style=flat" alt="elnurumo" /> </p>
-
+![](https://komarev.com/ghpvc/?username=huseynovelmir&abbreviated=true)
 
 
