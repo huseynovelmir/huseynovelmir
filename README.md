@@ -20,7 +20,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=huseynovelmir&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovelmir&label=Profile%20views&color=black&style=flat" alt="elnurumo" /> </p>
 
 
 
