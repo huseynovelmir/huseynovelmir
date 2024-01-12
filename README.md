@@ -2,7 +2,15 @@
 <h3 align="center">I'm a Front-end developer</h3>
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
+  ### 🤔 About Me :
 
+- 🔭 I’m currently working on **Portfolio**                                                     
+
+- 🌱 I’m currently learning **Back-end**
+
+- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Tailwind, React.js , Next.js , Three.js**
+
+- 📫 How to reach me **huseynovelmir789@gmail.com**
 
 
 ### Connect with me:
