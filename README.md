@@ -29,6 +29,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=huseynovelmir&abbreviated=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovelmir&layout=compact)
 
 
