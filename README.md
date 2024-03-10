@@ -30,5 +30,6 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovelmir&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=huseynovelmir)](https://git.io/streak-stats)
 
 
