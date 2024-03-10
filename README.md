@@ -33,3 +33,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huseynovelmir)](https://git.io/streak-stats)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseynovelmir&show_icons=true)
