@@ -2,13 +2,12 @@
 <h3 align="center">I'm a Front-end developer</h3>
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
-  ### 🤔 About Me :
 
-- 🔭 I’m currently working on **Portfolio**                                                     
+- 🔭 I’m currently working on **Code Academy**                                                 
 
 - 🌱 I’m currently learning **Back-end**
 
-- 💬 Ask me about **JavaScript, HTML/CSS/SCSS, Tailwind, React.js , Next.js , Three.js**
+- 💬 Ask me about **JS, React, Next, Three**
 
 - 📫 How to reach me **huseynovelmir789@gmail.com**
 
@@ -28,10 +27,13 @@
 
 
 
----
+<p>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseynovelmir&show_icons=true&locale=en&layout=compact&langs_count=14" alt="huseynovelmir" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynovelmir&layout=compact)
-![](https://komarev.com/ghpvc/?username=huseynovelmir&abbreviated=true)
+</p>
 
 
-
+<p align="center">
+ <img  src="https://komarev.com/ghpvc/?username=huseynovelmir&style=flat">
+</p>
