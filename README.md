@@ -13,12 +13,12 @@
 - 📫 How to reach me **huseynovelmir789@gmail.com**
 
 
-### 📞 Connect with me :
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/huseynovelmir"><img width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"/></a>
-<a href = "https://www.instagram.com/huseynovelmirr"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/></a>
-
+<a href="https://linkedin.com/in/huseynovelmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseynovelmir" height="30" width="40" /></a>
+<a href="https://instagram.com/needforelmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="needforelmir" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/huseynovelmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huseynovelmir" height="30" width="40" /></a>
+</p>
 
 </p>
 
