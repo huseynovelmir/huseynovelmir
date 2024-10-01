@@ -19,7 +19,7 @@
 
 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js,**
 
-⚡ Fun fact **The word 'Git' is actually British slang for a 'stupid' or 'unpleasant person.' Linus Torvalds (the creator of Git) humorously chose this name to describe himself!**
+⚡ Fun fact **NASA uses GitHub to share code and collaborate on space-related projects.**
 
  </div>
  
