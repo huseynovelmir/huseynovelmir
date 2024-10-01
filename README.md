@@ -19,7 +19,7 @@
 
 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js,**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The word 'Git' is actually British slang for a 'stupid' or 'unpleasant person.' Linus Torvalds (the creator of Git) humorously chose this name to describe himself!**
 
  </div>
  
