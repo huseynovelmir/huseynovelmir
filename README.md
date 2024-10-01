@@ -13,7 +13,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **Apponex**
+ 🔭 I’m currently working on **Code Academy**
  
  🌱 I’m currently learning **Node.js Express.js**
 
