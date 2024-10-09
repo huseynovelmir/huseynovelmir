@@ -40,10 +40,14 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=html,css,gulp,sass,tailwind,bootstrap,mui,vscode,github,figma" />
+   <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,gulp,sass,tailwind,bootstrap,mui,vscode,github,figma,zustand" />
+  </a>
 <br/>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,threejs,vite,redux,nodejs,express,mongodb,git" />
- 
+ <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,next,threejs,vite,redux,nodejs,express,mongodb,git" />
+  </a>
+
 </div>
 
 <br/>
