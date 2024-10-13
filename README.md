@@ -13,7 +13,7 @@
 
 <div align="left">
  
-🔭 **Currently:** Working at **Code Academy** as a front-end developer  
+🔭 **Currently:** Working at **Code Academy** as a front-end mentor  
 
 🌱 **Focused on:** Self-improvement, exploring **JavaScript ecosystems**  
 
