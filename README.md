@@ -13,13 +13,13 @@
 
 <div align="left">
  
-🔭 I’m currently working at **Code Academy** as a front-end developer, where I strive to innovate and inspire.
+🔭 **Currently:** Working at **Code Academy** as a front-end developer  
 
-🌱 I am currently focused on **self-improvement**, exploring new concepts and honing my skills.
+🌱 **Focused on:** Self-improvement, exploring **JavaScript ecosystems**  
 
-💬 Feel free to ask me about **JavaScript, TypeScript, React.js, Next.js**, and front-end technologies! I love sharing knowledge and helping others grow.
+💬 **Ask Me About:** JavaScript, TypeScript, React.js, Next.js, or front-end topics  
 
-⚡ Fun fact: NASA uses GitHub to share code and collaborate on space-related projects. Just like them, I believe in the power of collaboration and open-source!
+⚡ **Fun Fact:** NASA shares code on GitHub—just like them, I believe in collaboration!  
 
  </div>
  
